@@ -7,7 +7,7 @@
 #### 1.Total revenue by Year 
 #### 2.Revenue per region, per store, per product category & per brand.
 #### 3.Revenue Revenue by state on map
-#### link - https://public.tableau.com/app/profile/yogesh.dhaliya/viz/BikeStoresDashboard_17058681269250/Dashboard1
+#### Link - https://public.tableau.com/app/profile/yogesh.dhaliya/viz/BikeStoresDashboard_17058681269250/Dashboard1
 
 
 
